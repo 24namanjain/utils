@@ -1,0 +1,11 @@
+# File Organizer Dependencies
+# This project uses Python standard library modules:
+# - os
+# - stat
+# - datetime
+# - shutil
+# - tkinter (filedialog, messagebox)
+# - typing
+
+# No external dependencies required
+# All modules used are part of Python's standard library
